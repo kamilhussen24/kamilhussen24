@@ -1,6 +1,6 @@
 Hi! 👋 I'm Kamil Hussen
 
-🚀 Technology & Cyber Expert | Video Editor | Web & Graphics Designer        
+🚀 Technology & Cyber Expert | Video Editor | Web & Graphics Designer | Android Etc      
 🎵 Emerging Music Artist | Spotify | Apple Music
 
 
@@ -19,7 +19,7 @@ Hi! 👋 I'm Kamil Hussen
 
 🧭 Skills & Expertise
 
-🌟 Tech & Cyber Security | Web & Graphics Design | Video Editing
+🌟 Tech & Cyber Security | Web & Graphics Design | Video Editing | Android Etc
 
 💡 Creativity | Innovation | Problem Solving
 
