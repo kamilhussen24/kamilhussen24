@@ -35,7 +35,7 @@ Hi! 👋 I'm Kamil Hussen
 ⚡ Highlights!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F7F7F7&background=000000&width=500&height=50&lines=Hello+there!+I+am+Kamil+Hussen!;Cyber+Security+Expert!;Graphics+%26+Web+Designer!;Music+Producer!;Tech+Enthusiast!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F7F7F7&background=000000&width=500&height=50&lines=Hello+there!+I+am+Kamil+Hussen!;Cyber+Security+Expert!;Graphics+%26+Web+Designer!;Music+Producer!;Android!;Tech+Enthusiast!"/>
 </p>
 ---
 
