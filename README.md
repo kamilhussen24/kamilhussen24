@@ -17,7 +17,7 @@ My music is available on **Spotify, Apple Music, and Amazon Music**.
   <a href="mailto:kamil.chat24@icloud.com">
   <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://kamilhussen24.github.io/">
+<a href="https://kamilhussen24.vercel.app">
   <img src="https://img.shields.io/badge/Website-4285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </p>
