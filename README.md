@@ -1,4 +1,7 @@
-## Hi! 👋 I'm Kamil Hussen  
+## Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> I'M Kamil Hussen   
+
+
+<img align="right" alt="Developer Usama Sarwar" src="https://raw.githubusercontent.com/UsamaSarwar/UsamaSarwar/refs/heads/main/images/coding.gif" width="300"/>
 
 I'm a **Cyber Security Expert**, **Web & Graphics Designer**, and **Music Producer**.  
 Active in the online world since 2013, with expertise in technology and cybersecurity.  
