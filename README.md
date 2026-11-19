@@ -30,6 +30,7 @@ At **KDex**, I combine technology and creativity to build real-world digital sol
 
 - **Content Creation:** YouTube tutorials, crypto card reviews, social media
 - **Digital Marketing:** Meta Ads, Conversions API (CAPI), Telegram funnels
+- **Community Growth:** helping people and businesses set up and grow community and business groups
 - **FinTech & Web3:** payment systems, borderless payments, blockchain
 - **Development & Automation:** Telegram bots, web apps, payment gateways, AI tools
 - **Creative:** video editing, graphic design, web design
