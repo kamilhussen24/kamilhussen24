@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://kamildex.com"><img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://youtube.com/@kamilhussen24"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+  <a href="https://youtube.com/@kamilhussen24"><img src="https://img.shields.io/badge/Kamil%20Hussen-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
   <a href="https://youtube.com/@kdexupdate"><img src="https://img.shields.io/badge/KDex%20Update-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
   <a href="https://x.com/kamilhussen24"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
   <a href="https://t.me/KdexUpdate"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
