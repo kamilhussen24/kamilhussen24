@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Content Creator · FinTech · Web3</b><br/>
-  Founder of <a href="https://kamildex.com">KDex</a> · Sylhet, Bangladesh
+  Founder of <a href="https://kamildex.com">Kamil Dex (KDex)</a> · Sylhet, Bangladesh
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 I have been working in the online world since 2015. Today I build **payment systems**, **Web3 tools**, and **Telegram bots**, and I create content about **crypto cards, digital payments, and FinTech**.
 
-At **KDex**, I combine technology and creativity to build real-world digital solutions and a trusted media brand for the global crypto and FinTech community.
+At **Kamil Dex (KDex)**, I combine technology and creativity to build real-world digital solutions and a trusted media brand for the global crypto and FinTech community.
 
 ---
 
