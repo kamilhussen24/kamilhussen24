@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>Content Creator · FinTech · Web3</b><br/>
-  Founder of <a href="https://kamildex.com">Kamil Dex (KDex)</a> · Sylhet, Bangladesh
+  Founder of <a href="https://kamildex.com">Kamil Dex (KDex)</a><br/>
+  Sylhet, Bangladesh
 </p>
 
 <p align="center">
