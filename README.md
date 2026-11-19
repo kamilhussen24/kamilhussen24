@@ -1,7 +1,7 @@
 <h1 align="center">Kamil Hussen</h1>
 
 <p align="center">
-  <b>Content Creator · FinTech Developer · Web3 Builder</b><br/>
+  <b>Content Creator · FinTech · Web3</b><br/>
   Founder of <a href="https://kamildex.com">KDex</a> · Sylhet, Bangladesh
 </p>
 
@@ -13,7 +13,6 @@
   <a href="https://t.me/KdexUpdate"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/kamilhussen24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/kamilhussen24/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/kamilhussen24/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
